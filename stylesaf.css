@@ -1,0 +1,39 @@
+body{
+	width: 100%;
+	margin:auto;
+	min-width:600px;
+	max-width:2000px;
+}
+img{
+
+	width: 50%;
+}
+
+/*Div*/
+
+#header{
+
+	border:solid;
+	/*finir les calculs*/
+	width: 1046px; 
+	margin-left: 10%;
+
+}
+
+#contain{
+
+	width: 523px;
+	margin-left: 10%;
+	float: left;
+}
+
+#side{
+
+	width: 400px ;
+	float: left;
+	/*margin-right: 10%;*/
+}
+
+#main{
+	border: solid;
+}
